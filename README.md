@@ -1,3 +1,4 @@
 # android
 Repositorio de testes
-Git pull realizado
+Git 
+GitHub
